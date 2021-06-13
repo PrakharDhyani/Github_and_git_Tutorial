@@ -1,0 +1,2 @@
+1: git status  //  first check if there are any files for any untracked files
+2: git add file_name    //   then if there would add them by this command and again check for  untracked  
